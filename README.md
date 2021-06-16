@@ -5,4 +5,4 @@ The STL files in the /SketchUp directory are the initial prototype, the Fusion36
 
 ![Alt text](illustrations/example.PNG?raw=true "Snapshot of modified stereotaxic setup")
 
-illustrations/snout clamp1.1 v10.avi
+![caption](illustrations/assembly_animation.mp4)
