@@ -7,3 +7,7 @@ The STL files in the /SketchUp directory are the initial prototype, the Fusion36
 <img src="illustrations/example.PNG" alt="drawing" style="width:200px;"/>
 
 ![caption](illustrations/assembly_animation.mp4)
+
+
+## Citation:
+:)
