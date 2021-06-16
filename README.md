@@ -6,8 +6,10 @@ The STL files in the /SketchUp directory are the initial prototype, the Fusion36
 <!-- ![Alt text](illustrations/example.PNG?raw=true "Snapshot of modified stereotaxic setup") -->
 <img src="illustrations/example.PNG" alt="drawing" style="width:200px;"/>
 
-[![SC2 Video](https://img.youtube.com/vi/--b-058SZKGwQ/0.jpg)](https://www.youtube.com/watch?v=tv058SZKGwQ)
+<!-- [![SC2 Video](https://img.youtube.com/vi/--b-058SZKGwQ/0.jpg)](https://www.youtube.com/watch?v=tv058SZKGwQ) -->
 <!-- https://www.youtube.com/watch?v=tv058SZKGwQ -->
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tv058SZKGwQ/0.jpg)](https://www.youtube.com/watch?v=tv058SZKGwQ)
+
 
 ## Citation:
 :)
