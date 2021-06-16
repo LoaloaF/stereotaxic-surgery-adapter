@@ -4,6 +4,6 @@ This repo contains both the original CAD files in Fusion360 and SketchUp (free t
 The STL files in the /SketchUp directory are the initial prototype, the Fusion360 directory has the final models in it.
 
 <!-- ![Alt text](illustrations/example.PNG?raw=true "Snapshot of modified stereotaxic setup") -->
-<img src="illustrations/example.PNG" alt="drawing" style="width:400px;"/>
+<img src="illustrations/example.PNG" alt="drawing" style="width:200px;"/>
 
 ![caption](illustrations/assembly_animation.mp4)
