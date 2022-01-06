@@ -18,4 +18,5 @@ alt="IMAGE ALT TEXT" width="640" height="480" border="10" /></a>
  
 ## Citation
 **In case of use, please consider citing this work:**
+
 Steffens S, Bakker J, Glat M, Keimpema E, Pollak DD, Hökfelt T, Harkany T. 3D-print design of a stereotaxic adaptor for the precision targeting of brain structures in infant mice. Eur J Neurosci. 2022 Jan 2. doi: 10.1111/ejn.15588. Epub ahead of print. PMID: 34978111.
