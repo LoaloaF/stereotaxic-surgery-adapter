@@ -8,6 +8,7 @@
 
 ### Assembly illustration
 For higher FPS, click [here](https://www.youtube.com/watch?v=tv058SZKGwQ&ab_channel=NoWay).
+
 ![](illustrations/assembly_animation.gif)
 
 <!-- <a href="http://www.youtube.com/watch?feature=player_embedded&v=tv058SZKGwQ
