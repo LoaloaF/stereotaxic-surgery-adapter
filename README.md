@@ -5,7 +5,7 @@
 - [Fusion360 files](https://github.com/LoaloaF/stereotaxic-surgery-adapter/tree/main/Fusion360%20files "Fusion360 files") - Original Fusion360 CAD files for customizing designs
 - [SketchUp files (inital version of adapters)](https://github.com/LoaloaF/stereotaxic-surgery-adapter/tree/main/SketchUp%20files%20(inital%20version%20of%20adapters)  "SketchUp files (inital version of adapters)") - STL-, and SketchUp files of initial prototype adaptor (deprecated)
 
-![](illustrations/example.PNG)
+![](illustrations/ezgif-2-de60285381.gif)
 
 <!-- ![Alt text](illustrations/example.PNG?raw=true "Snapshot of modified stereotaxic setup") -->
 <!-- <img src="illustrations/example.PNG" alt="drawing" style="width:200px;"/> -->
